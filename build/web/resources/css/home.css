@@ -1,0 +1,134 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.b {
+	overflow:hidden;
+       // background: #FFFFFF url(images/2.jpg) repeat-x;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        font-size: 14px;
+	color: #4A5157;
+        position: static;
+        z-index:  -1;
+        width: 100%;
+        
+}
+
+ 
+
+.leftd
+{
+overflow:hidden;
+position:absolute;
+top:132px;
+left:1305px; right:0px;
+//background: url(images/2.jpg); 
+background-repeat: repeat-y;
+height:140%;
+width: 44px;
+z-index:-1;
+    
+}
+
+.rightd
+{
+overflow:hidden;
+position:absolute;
+top:126px;
+//left:1250px; 
+//right:0px;
+//background: url(images/2.jpg); 
+background-repeat: repeat-y;
+height:140%;
+width: 44px;
+z-index:-2;
+    
+}
+.footer {
+        overflow:hidden;
+        position: absolute;
+        z-index:10;
+        padding: 0 0;
+        
+        bottom: -1100px;
+        width: 100%;
+}
+
+.ui-icon-logout
+{
+ background-image: url('images/exit.png') !important;  
+}
+.ui-icon-save
+{
+ background-image: url('images/save.png') !important;  
+}
+.ui-icon-login
+{
+ background-image: url('images/login.png') !important;  
+}
+
+.ui-icon-adds
+{
+    background-image: url('images/adds.png') !important;  
+}
+
+.ui-icon-clear
+{
+    background-image: url('images/clear.jpg') !important;  
+}
+
+.ui-icon-delete
+{
+ background-image: url('images/delete.gif') !important;      
+}
+
+.ui-icon-update
+{
+ background-image: url('images/update.png') !important;      
+}
+
+.ui-icon-notify
+{
+ background-image: url('images/notify.png') !important;      
+}
+
+.ui-icon-noteit
+{
+ background-image: url('images/noteit.png') !important;      
+}
+.ui-icon-paid
+{
+    
+ background-image: url('images/paid.png') !important;      
+}
+
+.ui-icon-checku
+{
+    
+ background-image: url('images/check.png') !important;      
+}
+
+.ui-icon-buy
+{
+    background-image: url('images/buy.png') !important;
+}
+
+.ui-icon-calculate
+{
+   background-image: url('images/calculator.png') !important; 
+}
+
+.ui-icon-print
+{
+   background-image: url('images/print.png') !important; 
+}
+
+.ui-icon-Calendar
+{
+   background-image: url('images/calendar.png') !important; 
+}
+
+.ui-icon-Search
+{
+   background-image: url('images/search.gif') !important; 
+}
